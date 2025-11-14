@@ -163,6 +163,26 @@ Bash automation scripts for managing OpenWebUI and pipeline components. Simplifi
 
 ---
 
+## ✍️ Technical Writing & Insights
+
+### Articles on LinkedIn:
+
+📝 [**How I Cut My OpenAI API Costs by Compressing System Prompts**](https://www.linkedin.com/pulse/how-i-cut-my-openai-api-costs-compressing-system-prompts-sorokin-6arxf/)
+
+📝 [**Overcoming API Authentication Challenges Using Selenium**](https://www.linkedin.com/pulse/overcoming-api-authentication-challenges-using-selenium-sorokin-i83me)
+
+📝 [**Setting Up Your Environment for YOLOv8 with GPU on Windows 11**](https://www.linkedin.com/pulse/setting-up-your-environment-yolov8-gpu-windows-11-vladislav-sorokin-yjdle)
+
+📝 [**Integrating TinyMCE with Django: A Beginner-Friendly Guide**](https://www.linkedin.com/pulse/integrating-tinymce-django-beginner-friendly-guide-vladislav-sorokin-vjfqe)
+
+📝 [**Setting Up Dynamic Flatpages Management with Django 5**](https://www.linkedin.com/pulse/setting-up-dynamic-flatpages-management-django-5-vladislav-sorokin-g7rqe)
+
+📝 [**Setting Up FastAI & PyTorch on Windows 11 with GPU**](https://www.linkedin.com/pulse/setting-up-fastai-pytorch-windows-11-machine-gpu-approach-sorokin)
+
+[**→ View all articles**](https://www.linkedin.com/in/vladislav-sorokin/recent-activity/all/)
+
+---
+
 ## 📜 Certifications
 
 - 🥇 **Microsoft Certified: Azure AI Engineer Associate (AI-102)** — July 2024
