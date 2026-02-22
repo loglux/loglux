@@ -1,32 +1,37 @@
-# Vladislav Sorokin
+# 👋 Hi, I'm Vladislav
 
-`Python Developer` `AI Automation` `API-First Projects`
+### 🧠 Python Developer focused on AI automation, APIs, and practical tools
 
-## Projects
+I build real-world AI and automation projects with a focus on clean architecture, useful workflows, and maintainable code.
 
-### RAG Knowledge Base Platform
-https://github.com/loglux/RAG-Knowledge-Base-Platform  
+---
+
+## 🚀 Featured Projects
+
+### 📚 [RAG Knowledge Base Platform](https://github.com/loglux/RAG-Knowledge-Base-Platform)
 Semantic retrieval and grounded Q&A over document collections.
 
-### AuthMCP Gateway
-https://github.com/loglux/authmcp-gateway  
+### 🔐 [AuthMCP Gateway](https://github.com/loglux/authmcp-gateway)
 Authentication and routing layer for multi-service AI tooling.
 
-### WhatsApp MCP Stream
-https://github.com/loglux/whatsapp-mcp-stream  
+### 💬 [WhatsApp MCP Stream](https://github.com/loglux/whatsapp-mcp-stream)
 WhatsApp MCP server with admin UI and bidirectional media flow.
 
-### Fix Math for Obsidian
-https://github.com/loglux/fix-math-for-obsidian  
+### ✍️ [Fix Math for Obsidian](https://github.com/loglux/fix-math-for-obsidian)
 Obsidian plugin for safe LaTeX delimiter conversion.
 
-## Certifications
+---
 
-- Microsoft Certified: Azure AI Engineer Associate (AI-102), 2024
-- Microsoft Certified: Azure AI Fundamentals (AI-900), 2024
-- Microsoft Applied Skills (Azure OpenAI, Document Intelligence, AI Language), 2024
+## 🧰 What I Build
 
-## Open To
+- RAG and semantic retrieval systems
+- AI service orchestration and API integrations
+- Automation tools for real workflows
+- Lightweight open-source developer utilities
 
-- Python Developer roles
-- AI/Automation Engineer roles
+---
+
+## 📜 Certifications
+
+- 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102), 2024
+- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900), 2024
