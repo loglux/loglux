@@ -35,3 +35,14 @@ Obsidian plugin for safe LaTeX delimiter conversion.
 
 - 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102), 2024
 
+---
+
+  ![Projects](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/
+  loglux&query=$.public_repos&label=projects&color=blue)
+
+  Для звезд лучше показывать по ключевым репам:
+
+  ![RAG Stars](https://img.shields.io/github/stars/loglux/RAG-Knowledge-Base-Platform?style=social)
+  ![AuthMCP Stars](https://img.shields.io/github/stars/loglux/authmcp-gateway?style=social)
+  ![WhatsApp MCP Stars](https://img.shields.io/github/stars/loglux/whatsapp-mcp-stream?style=social)
+  ![Fix Math Stars](https://img.shields.io/github/stars/loglux/fix-math-for-obsidian?style=social)
