@@ -2,12 +2,6 @@
 
 `Python Developer` `AI Automation` `API-First Projects`
 
-I build practical software and automation tools with Python and AI services, focusing on clear architecture, reliable delivery, and maintainable code.
-
-| Location: Belfast, Northern Ireland, UK  
-| LinkedIn: https://linkedin.com/in/vladislav-sorokin  
-| GitHub: https://github.com/loglux
-
 ## Projects
 
 ### RAG Knowledge Base Platform
