@@ -34,4 +34,4 @@ Obsidian plugin for safe LaTeX delimiter conversion.
 ## 📜 Certifications
 
 - 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102), 2024
-- ✅ Microsoft Certified: Azure AI Fundamentals (AI-900), 2024
+
