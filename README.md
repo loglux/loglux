@@ -20,6 +20,9 @@ WhatsApp MCP server with admin UI and bidirectional media flow.
 ### ✍️ [Fix Math for Obsidian](https://github.com/loglux/fix-math-for-obsidian)
 Obsidian plugin for safe LaTeX delimiter conversion.
 
+### ➕ [Auto Math for Obsidian](https://github.com/loglux/auto-math-for-obsidian)
+Obsidian plugin for auto-expanding LaTeX math snippets while you type.
+
 ---
 
 ## 🧰 What I Build
