@@ -1,16 +1,11 @@
-<a href="https://loglux.github.io"><img src="https://loglux.github.io/og.png" alt="Vladislav Sorokin: portfolio" width="100%"></a>
-
-Python developer in Belfast. I build complete systems and keep them running: live products, AI infrastructure, desktop tools and device provisioning.
+<a href="https://loglux.github.io"><img src="https://loglux.github.io/readme/banner.png" alt="Vladislav Sorokin: Python developer in Belfast. I build complete systems and keep them running." width="100%"></a>
 
 **Portfolio: [loglux.github.io](https://loglux.github.io)**. Every project is there, including the private ones, described from its code.
 
-## Live products
+[![FuelScope, BlueEdit and AuthMCP Gateway](https://loglux.github.io/readme/strip.jpg)](https://loglux.github.io)
+<sub>FuelScope on Android · LaTeX formulas in the BlueEdit terminal editor · the AuthMCP Gateway dashboard</sub>
 
-<p>
-  <a href="https://loglux.github.io/#fuelscope"><img src="https://loglux.github.io/img/fuelscope.webp" alt="FuelScope Android app" width="32%"></a>
-  <a href="https://loglux.github.io/#blueedit"><img src="https://loglux.github.io/img/blueedit.webp" alt="BlueEdit showing LaTeX formulas in the terminal" width="32%"></a>
-  <a href="https://loglux.github.io/#authmcp-gateway"><img src="https://loglux.github.io/img/authmcp.webp" alt="AuthMCP Gateway dashboard" width="32%"></a>
-</p>
+## Live products
 
 | | | |
 |---|---|---|
