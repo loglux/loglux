@@ -7,7 +7,7 @@
 
 ## Live products
 
-| | | |
+| Product | What it is | Links |
 |---|---|---|
 | **FuelScope** | UK fuel prices from the government's live feed: sync engine, outlier filtering, PostGIS search, price alerts | [![Website](https://img.shields.io/badge/web-fuelscope.uk-1C7A4B)](https://fuelscope.uk) [![Google Play](https://img.shields.io/badge/Google_Play-FuelScope-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=uk.fuelscope.app) |
 | **TaxScope** | UK tax calculators on HMRC's PAYE specification in exact decimal arithmetic; offline Android port of the same engine | [![Website](https://img.shields.io/badge/web-taxscope.uk-1C7A4B)](https://taxscope.uk) [![Google Play](https://img.shields.io/badge/Google_Play-TaxScope-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=uk.taxscope.app) |
