@@ -21,6 +21,7 @@
 | [WhatsApp MCP Stream](https://github.com/loglux/whatsapp-mcp-stream) | MCP server for WhatsApp, built to survive an unreliable connection | [![Stars](https://img.shields.io/github/stars/loglux/whatsapp-mcp-stream?style=flat)](https://github.com/loglux/whatsapp-mcp-stream) |
 | [BlueEdit](https://github.com/loglux/blueedit) | Console text editor in C#: its own terminal renderer, LaTeX in the terminal, an LSP client, LLM grammar checking | |
 | [Fix Math](https://github.com/loglux/fix-math-for-obsidian) · [Auto Math](https://github.com/loglux/auto-math-for-obsidian) · [BlueProof](https://github.com/loglux/obsidian-blueproof) | Obsidian plugins in the community directory | [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22fix-math%22%5D.downloads&label=Fix%20Math%20downloads&color=7C3AED)](https://obsidian.md/plugins?id=fix-math) [![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json&query=%24%5B%22auto-math%22%5D.downloads&label=Auto%20Math%20downloads&color=7C3AED)](https://obsidian.md/plugins?id=auto-math) |
+| [Peekel](https://github.com/loglux/peekel) | Quick-view plugin for Far Manager in Rust: pictures, PDF, DjVu and Office previews drawn in the terminal, with its own DjVu decoder | [![Release](https://img.shields.io/github/v/release/loglux/peekel?label=release)](https://github.com/loglux/peekel/releases/latest) |
 | [iPXE Station](https://github.com/loglux/ipxe-station) | Self-hosted PXE/iPXE boot server with a web menu builder and proxy DHCP | |
 
 ## In development
@@ -29,7 +30,7 @@
 
 ## Stack
 
-Python · TypeScript · C#/.NET · PowerShell · Kotlin
+Python · TypeScript · C#/.NET · PowerShell · Rust · Kotlin
 FastAPI · Django · Next.js · React · React Native · PostgreSQL/PostGIS · Qdrant · OpenSearch · Redis · Docker · MCP
 
 Microsoft Certified: Azure AI Engineer Associate (AI-102), 2024
